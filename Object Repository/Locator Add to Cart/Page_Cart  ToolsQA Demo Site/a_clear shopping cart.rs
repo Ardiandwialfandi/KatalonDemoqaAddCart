@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_clear shopping cart</name>
+   <tag></tag>
+   <elementGuidId>d53e6fe1-ac53-4995-b9e5-fe4ea074e061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.empty-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-6']/div/div/form/table/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c33abeef-c40d-467a-b975-22b6e71712e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-cart</value>
+      <webElementGuid>7e9e9af2-db2d-4fe8-94e5-7677f25b0094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/cart/?empty-cart</value>
+      <webElementGuid>b533e91e-f666-4f22-9780-773b13c664d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>clear shopping cart</value>
+      <webElementGuid>358c6c03-fe63-41f2-8b4c-47af56a7dc97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-6&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[1]/table[@class=&quot;shop_table shop_table_responsive cart&quot;]/tbody[1]/tr[2]/td[@class=&quot;actions&quot;]/a[@class=&quot;empty-cart&quot;]</value>
+      <webElementGuid>67044407-4eef-41d6-832e-2404c9bc41c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-6']/div/div/form/table/tbody/tr[2]/td/a</value>
+      <webElementGuid>9c3b87fa-0239-4293-80f2-229006532479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'clear shopping cart')]</value>
+      <webElementGuid>fa9a937f-f4b5-4f33-b19e-f5ecafce5081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[5]/following::a[2]</value>
+      <webElementGuid>4df43477-9b46-4776-9568-092f64bd08a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::a[2]</value>
+      <webElementGuid>99ee792a-2d96-428d-9787-99d297a25658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='continue shopping'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a30ed3a-4ffc-4426-93a0-195c98d42420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon:'])[1]/preceding::a[2]</value>
+      <webElementGuid>1d1eff52-4fb6-43e9-a6f0-faf42fc0d59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='clear shopping cart']/parent::*</value>
+      <webElementGuid>d1557648-2ad2-4d2d-9c05-8eb10e7a2343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shop.demoqa.com/cart/?empty-cart')]</value>
+      <webElementGuid>67a7e71c-45a8-431a-864d-7173d17182f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/a</value>
+      <webElementGuid>6b5b034a-8773-4da2-bca8-751074d4e471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/cart/?empty-cart' and (text() = 'clear shopping cart' or . = 'clear shopping cart')]</value>
+      <webElementGuid>603bf0ad-3773-45a3-aac2-4b361db631c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

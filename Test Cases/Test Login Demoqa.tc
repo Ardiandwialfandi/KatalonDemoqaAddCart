@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Let's see how katalon runs an automation test for the login feature</description>
+   <name>Test Login Demoqa</name>
+   <tag>login</tag>
+   <comment></comment>
+   <testCaseGuid>720fb309-b0fc-4bb8-9191-56ae120e8b00</testCaseGuid>
+</TestCaseEntity>
